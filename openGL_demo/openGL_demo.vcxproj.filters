@@ -38,5 +38,8 @@
     <ClInclude Include="OpenGLDraw.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="GLSL_Shader_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

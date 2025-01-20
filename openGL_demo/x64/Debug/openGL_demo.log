@@ -1,3 +1,7 @@
-﻿  openGL_demo.vcxproj -> C:\Users\Syed Yousuf\Documents\TEMP_FOLDER\openGL_DEMO\openGL_demo\x64\Debug\openGL_demo.exe
+﻿  main.cpp
+C:\Users\Syed Yousuf\Documents\TEMP_FOLDER\openGL_DEMO\openGL_demo\openGL_demo\OpenGLLoader.h(37,35): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  openGL_demo.vcxproj -> C:\Users\Syed Yousuf\Documents\TEMP_FOLDER\openGL_DEMO\openGL_demo\x64\Debug\openGL_demo.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

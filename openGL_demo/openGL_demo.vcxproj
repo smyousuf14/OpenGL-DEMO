@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="callbacks.h" />
+    <ClInclude Include="GLSL_Shader_loader.h" />
     <ClInclude Include="Input.h" />
     <ClInclude Include="OpenGLDraw.h" />
     <ClInclude Include="OpenGLLoader.h" />
